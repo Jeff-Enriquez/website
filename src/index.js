@@ -50,6 +50,7 @@ const theme = {
   headerBG: '#D8D8D8',
   headerBG2: '#F8F8F8',
   headerCircleBG: '#F4F4F4',
+  searchSelect: '#6D7278',
   button1BG: '#000000',
   button1TextColor: 'white',
   button2BG: '#FFFFFF',
